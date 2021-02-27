@@ -21,8 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveendara999&show_icons=true&locale=en&layout=compact" alt="naveendara999" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveendara999&show_icons=true&locale=en" alt="naveendara999" /></p>
-username=naveendara999&show_icons=true&locale=en&layout=compact" alt="naveendara999" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveendara999&show_icons=true&locale=en" alt="naveendara999" /></p></p>
 
 <!--
 **naveendara999/naveendara999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
