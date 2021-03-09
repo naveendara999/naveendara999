@@ -14,8 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://fb.com/naveen.dara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ajay.palsaniya" height="30" width="40" /></a>
-<a href="https://instagram.com/naveen_dara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ajay_palsaniya" height="30" width="40" /></a>
+<a href="https://www.facebook.com/naveen.dara.507" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="naveen" height="30" width="40" /></a>
+<a href="https://www.instagram.com/naveen__dara/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="naveen dara" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
